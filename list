@@ -1,0 +1,6 @@
+
+list = ["sripathi",1,2.0]
+for i in list:
+  print(type(i))
+
+
